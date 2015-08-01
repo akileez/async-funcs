@@ -1,0 +1,35 @@
+{
+  "name": "async-funcs",
+  "version": "0.1.0",
+  "description": "lightweight async functions",
+  "main": "index.js",
+  "scripts": {
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/akileez/async-funcs.git"
+  },
+  "author": {
+    "name": "Keith Williams",
+    "email": "git@keeda.net",
+    "url": "https://github.com/akileez/async-funcs"
+  },
+  "homepage": "https://github.com/akileez/async-funcs",
+  "bugs": {
+    "url": "https://github.com/akileez/async-funcs/issues"
+  },
+  "license": "MIT",
+  "keywords": [],
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "files": [
+    "LICENSE",
+    "index.js",
+    "README.md"
+  ]
+}
