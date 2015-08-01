@@ -1,6 +1,6 @@
 {
   "name": "async-funcs",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "lightweight async functions",
   "main": "index.js",
   "scripts": {
@@ -30,6 +30,7 @@
   "files": [
     "LICENSE",
     "index.js",
-    "README.md"
+    "README.md",
+    "lib"
   ]
 }
