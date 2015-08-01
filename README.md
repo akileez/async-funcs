@@ -4,6 +4,10 @@
 [![Test coverage][coveralls-image]][coveralls-url]
 [![Downloads][downloads-image]][downloads-url]
 
+No longer in use but keeping here for posterity. Major contribution to my education.
+
+Documentation coming.
+
 ## Installation
 ```bash
 $ npm install akileez\async-funcs
